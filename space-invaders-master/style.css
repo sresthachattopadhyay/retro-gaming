@@ -1,6 +1,7 @@
 body{
-	bacground color::#333;
+	bacground color:#333;
 	color:#fff;
+	text-align:center;
 }
 .grid {
 	width: 300px;
