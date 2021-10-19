@@ -1,7 +1,11 @@
+body{
+	bacground color::#333;
+	color:#fff;
+}
 .grid {
 	width: 300px;
 	height: 300px;
-	border: solid black 1px;
+	border: solid white 1px;
 	display: flex;
 	flex-wrap: wrap;
 }
